@@ -1,0 +1,8 @@
+.cproject
+.project
+PLC_Mitsu Debug.launch
+STM32F072RBTX_FLASH.ld
+.settings/
+.metadata/
+Debug/
+GPIO_Output/

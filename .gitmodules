@@ -1,0 +1,6 @@
+[submodule "DC_Inverter"]
+	path = DC_Inverter
+	url = https://github.com/thuan1091996/STM32F0_SPWM
+[submodule "PLC_Mitsu"]
+	path = PLC_Mitsu
+	url = https://github.com/thuan1091996/PLC_Mitsu.git
