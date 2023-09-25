@@ -4,3 +4,6 @@
 [submodule "PLC_Mitsu"]
 	path = PLC_Mitsu
 	url = https://github.com/thuan1091996/PLC_Mitsu.git
+[submodule "spwm"]
+	path = spwm
+	url = https://github.com/thuan1091996/STM32F0_SPWM
